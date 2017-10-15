@@ -19,3 +19,6 @@ INSERT INTO department(department_name, department_group_idx) VALUES ('해외영
 INSERT INTO department(department_name, department_group_idx) VALUES ('국내영업팀', 3);
 -- INSERT INTO department(department_name, department_group_idx) VALUES ('기타팀', 4);
 
+
+INSERT INTO member(member_description, member_name) VALUES ('파워스프링!','전설의개발자');
+INSERT INTO member(member_description, member_name) VALUES ('개발2팀의 무적개발자','김보훈');
